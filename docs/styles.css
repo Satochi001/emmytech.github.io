@@ -371,7 +371,7 @@
              }
            
 
-             .home span::selection{
+             .home span::selection .about span::selection{
               color: var(--green);
              }
             
@@ -536,6 +536,9 @@ margin-bottom: 20px;
 line-height: 1.6; 
 
 }
+.about span{
+  color: var(--green);
+ }
 
 .about ul{
 display: grid;
