@@ -2,7 +2,7 @@
 
 #PERSONAL PORTFOLIO.
 
-Emy4dev
+Emy4dev.
 
 beautiful frontend design. 🪗
 
