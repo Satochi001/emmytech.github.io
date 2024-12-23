@@ -405,7 +405,7 @@
  
 }
 /* scroll down */
-.scroll-down{
+.scroll-down, a .scroll-down{
   display: flex;
   flex-direction: column;
    gap: 10px;  
