@@ -406,12 +406,81 @@
 }
 /* scroll down */
 .scroll-down{
+  display: flex;
+  flex-direction: column;
+   gap: 10px;  
+  align-items: center;
+  justify-content: center;
   position: relative;
-  left: 90%;
-  top: 40%;
-  fill: var(--green);
+  align-items: flex-end;
+
 
 }
+
+@keyframes move-chevron {
+  25% {
+    opacity: 1;
+  }
+  31% {
+    opacity: 1;
+    transform: skewy(10deg);
+  }
+  66.0% {
+    opacity: 1;
+    transform: skewy(20deg);
+  }
+  100%{
+    opacity: 0;
+    transform: skewy(30deg)
+    scale(0.5);
+  }
+}
+
+.chevron{
+  position: relative;
+  width: 4px;
+  height: 20px;
+  animation: move-chevron 3s ease-out infinite;
+}
+
+
+.chevron:first-child{
+  animation: move-chevron 3s ease-out infinite;
+
+}
+.chevron:nth-child(2){
+  animation: move-chevron 3s ease-out infinite;
+
+}
+.chevron:before,.chevron::after {
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 50%;
+  
+}
+
+.chevron:before{
+  right: -10px ;
+  background-color: var(--green);
+  transform: skewx(150deg);
+
+
+}
+
+.chevron::after { 
+  left: 0px;
+  background-color: var(--green);
+  transform:skewx(-150deg);
+
+}
+
+
+
+
+
+
+
 
 /* addittional inner content  project hover & socials hover */
 
