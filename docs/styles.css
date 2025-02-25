@@ -1597,6 +1597,43 @@ margin-bottom: 5px;
  
   
 @media screen and (max-width: 480px) {
+  #main-section{
+    padding-top: 1rem;
+    
+  }
+
+
+  .about h1::after{
+    width: 50%
+  
+  }
+
+
+  .about .detail-text{
+    width: 100%;
+  }
+
+  .about{
+    min-width: 100vw;
+   }
+     
+   
+     .about-img .img-container{
+       width: 250px;
+       margin-left: 20px;
+       left: 0;
+     } 
+   
+     .about ul{
+      font-size: 14px;
+      color: var(--light-slate);
+      column-gap: 80px;
+      
+      }
+
+      /* work section */
+ 
+  
   .work, .home, .about, .experience{
     right: 1rem;
 
