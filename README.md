@@ -25,11 +25,12 @@ Simply open `index.html` in your preferred browser.
 ### 3️⃣ Deploy on GitHub Pages
 Ensure GitHub Pages is enabled in repository settings under **Pages**.
 
-## 📈 Features
+## 📈 Features 
 - Clean & modern **UI/UX**
 - Fully **responsive** design
 - Smooth animations & transitions
 - Optimized for **performance & SEO**
+  
 
 ## 🏆 Roadmap
 👉 Adding dark mode support
