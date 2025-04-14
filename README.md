@@ -5,7 +5,7 @@ Welcome to **Emmy4dev's Personal Portfolio**! 🖥️✨
 ## 🌟 Overview
 This is a beautifully crafted **frontend design landing page** showcasing my skills, projects, and experiences as a developer.
 
-💪 **Inspired by Bitany Chaing** 🥈🌀
+💪 **Inspired by Bitany Chaing** 🥈🌀.
 
 ## 🔧 Tech Stack
 - **Frontend**: HTML, CSS, JavaScript
