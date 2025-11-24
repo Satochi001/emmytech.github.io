@@ -49,7 +49,7 @@
               margin: 0;
               padding: 0;
               border: 0 solid transparent; 
-               }
+              }
   
           svg,image,video,button{
                display: block;
@@ -182,7 +182,7 @@
               border-radius: 3px;
              }
   
-             /* nav-styling */
+             /*=========================== nav-styling ===================== */
 
             .nav-header {
               width: 100%;
@@ -275,13 +275,13 @@
            }
 
 
-           /* nav-menu */
+           /*================== Nav-menu ======================*/
            .mobile-nav{
             display: none;
            }
 
            
-           /* main section*/
+           /*===================== main section =================*/
 
            section{
             height: auto;
@@ -301,7 +301,7 @@
 
           
 
-           /*home */
+           /*================= home ==================*/
            .home{
             position: relative;
             margin: 150px 180px 0px 180px;
