@@ -491,8 +491,6 @@
   fill: var(--green);
   transition: var(--transition);
 
-
-
 }
 
 .address:hover:hover{
@@ -567,7 +565,7 @@
   display: grid;
   grid-template-columns: 50% 28%;
   font-size: clamp(14px 80vw, 18px);
-  color: var(--light-slate);
+  color: var(--light);
   }
 
   
@@ -582,16 +580,9 @@
   left: 0;
 }
 
-
-
-
-
-
-
-
 .about .detail-text{
 margin-top: 0px;
-color: var(--light-slate);
+color: var(--light);
 width: 85%;
 font-weight: 450;
 width:  90%;
@@ -691,14 +682,7 @@ mix-blend-mode: multiply;
 filter:  grayscale(100%) contrast(1) ;
 }
 
-
-
-
-
-
-
 /* works */
-
 .work {
   position: relative;
   margin: 0px 0px 0px 22%;
@@ -708,10 +692,6 @@ filter:  grayscale(100%) contrast(1) ;
   min-height: 70vh;
   }
 
-
-
-
-
 .work h1::before{
   position: relative;
   content: "02.";
@@ -719,8 +699,6 @@ filter:  grayscale(100%) contrast(1) ;
     font-family: var(--font-mono);
     font-size: clamp(0.9375rem, 0.8972rem + 0.2581vw, 1.1875rem);
     }
-
-
 
 .work li,
 .work .work-details {
