@@ -16,10 +16,6 @@ function hideContent() {
 
 //function that handle the scroll behavior 
 
-
-
-
-
 function openTab(event, upwork) {
     var tabContent = document.getElementById(upwork);
     tabContent.style.display = "block";
@@ -47,9 +43,7 @@ function openTab(event, upwork) {
 hideContent();
 
 
-
 //nav bar scroll responsive 
-
 function adjustNav(){
     if(window.scrollY === 0){
         navScroll.style.boxShadow = "none";
