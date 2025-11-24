@@ -3,6 +3,8 @@ const mobileNav = document.querySelector(".mobile-nav");
 const overlayOut = document.querySelector(".overlay");
 const navScroll = document.querySelector('.nav-header');
 
+
+
 function hideContent() {
     var tabContents = document.getElementsByClassName('tab-content');
     for (var i = 0; i < tabContents.length; i++) {
