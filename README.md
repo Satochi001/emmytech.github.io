@@ -44,5 +44,5 @@ Check out the live version [here](https://emmy4dev.github.io/)
 This project is **open-source** under the MIT License.
 
 ---
-💌 Feel free to connect & contribute! 🚀
+💌 Feel free to connect with me 🚀
 
