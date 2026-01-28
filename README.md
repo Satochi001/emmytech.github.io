@@ -29,7 +29,7 @@ Ensure GitHub Pages is enabled in repository settings under **Pages**.
 - Clean & modern **UI/UX**
 - Fully **responsive** design
 - Smooth animations & transitions
-- Optimized for **performance & SEO**
+- Optimized for **performance & SEO **
   
 
 ## 🏆 Roadmap
